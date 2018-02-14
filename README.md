@@ -5,7 +5,6 @@ Add the following to your `pom.xml`:
 ```xml
 <repository>
   <id>talon-one</id>
-  <name>artefacts</name>
   <url>https://github.com/talon-one/maven-artefacts/raw/master</url>
 </repository>
 ```
