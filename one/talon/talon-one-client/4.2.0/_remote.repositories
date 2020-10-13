@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 13 13:34:26 UTC 2020
+talon-one-client-4.2.0-sources.jar>=
+talon-one-client-4.2.0-tests.jar>=
+talon-one-client-4.2.0.jar>=
+talon-one-client-4.2.0.pom>=
+talon-one-client-4.2.0-javadoc.jar>=
