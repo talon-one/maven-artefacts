@@ -17,3 +17,17 @@ Add the following to your `pom.xml`:
   <scope>compile</scope>
 </dependency>
 ```
+## Latest Release Candidate version
+
+Latest RC version: `4.5.0-rc`
+
+After adding the above repository definition to your `pom.xml` file, add the following to use the RC version:
+
+```xml
+<dependency>
+  <groupId>one.talon</groupId>
+  <artifactId>talon-one-client</artifactId>
+  <version>4.5.0-rc</version>
+  <scope>compile</scope>
+</dependency>
+```
