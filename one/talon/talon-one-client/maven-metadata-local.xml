@@ -41,7 +41,6 @@
       <version>5.0.2</version>
       <version>5.0.3</version>
     </versions>
-	    # Update this time when I merge JavaSDK pr.
-    <lastUpdated>20230825110000</lastUpdated>
+    <lastUpdated>20230825094400</lastUpdated>
   </versioning>
 </metadata>
